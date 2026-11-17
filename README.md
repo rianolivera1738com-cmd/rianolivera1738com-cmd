@@ -2,7 +2,7 @@
 
 🎓 Universitário na UniBH – Análise e Desenvolvimento de Sistemas (ADS)
 
-💻 Estudo programação e desenvolvimento de sistemas
+💻 Estudo programação e desenvolvimento de sistemas é redes!
 
 🤖 Estudo Inteligência Artificial
 
