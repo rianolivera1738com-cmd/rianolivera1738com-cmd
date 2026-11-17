@@ -1,3 +1,5 @@
+![Terminal pixel art animado com a mensagem Hello, World!](assets/terminal-pixel.svg)
+
 # Olá, eu sou o Rian Oliveira!
 
 Sou estudante de Análise e Desenvolvimento de Sistemas no UniBH e busco estágio em TI em Belo Horizonte. Tenho interesse em desenvolvimento back-end e suporte técnico.
