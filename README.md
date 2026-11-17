@@ -1,15 +1,33 @@
-![Terminal pixel art animado com a mensagem Hello, World!](assets/terminal-pixel.svg)
+<div align="center">
 
-# Olá, eu sou o Rian Oliveira!
+![HELLO, WORLD! — Rian Oliveira](assets/terminal-pixel.svg)
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no UniBH e busco estágio em TI em Belo Horizonte. Tenho interesse em desenvolvimento back-end e suporte técnico.
+### Olá, eu sou o Rian Oliveira! 👋
 
-## Projetos
+**Estudante de Análise e Desenvolvimento de Sistemas | UniBH**
 
-- [Diagnóstico de Rede no Linux](https://github.com/rianolivera1738com-cmd/diagnostico-rede-bash) — Script em Bash que identifica o IPv4 local e o gateway, testa a comunicação com o roteador e consulta o DNS.
-- [Avaliador de Senhas em Java](https://github.com/rianolivera1738com-cmd/AvaliadorDeSenha-Java) — Projeto acadêmico que avalia senhas fictícias pelo terminal e explica quais critérios faltam.
-- [API de Segurança](https://github.com/rianolivera1738com-cmd/api-de-seguranca) — API de cadastro e login com ASP.NET Core, SQLite e JWT. Usa uma biblioteca em Rust para gerar e verificar hashes de senhas.
-
-## Contato
+📍 Belo Horizonte, MG · 🎯 Em busca de estágio em TI
 
 [LinkedIn](https://www.linkedin.com/in/rian-oliveira-a45b132b5/) · [E-mail](mailto:rianolivera1738.com@gmail.com)
+
+</div>
+
+---
+
+### 👨‍💻 Sobre mim
+
+Estudo **ADS na UniBH** e desenvolvo projetos para aprimorar minhas habilidades em programação, redes e segurança da informação. Tenho interesse em **back-end, suporte técnico e cibersegurança**.
+
+### 🚀 Projetos
+
+- **[Diagnóstico de Rede no Linux](https://github.com/rianolivera1738com-cmd/diagnostico-rede-bash)** — Script Bash para verificar IP, gateway, conexão e DNS.
+- **[Avaliador de Senhas em Java](https://github.com/rianolivera1738com-cmd/AvaliadorDeSenha-Java)** — Avaliação didática de critérios de segurança de senhas.
+- **[API de Segurança](https://github.com/rianolivera1738com-cmd/api-de-seguranca)** — API com ASP.NET Core, SQLite, JWT e biblioteca Rust para hashes de senhas.
+
+### 🛠️ Tecnologias em estudo
+
+**Java · C# · Rust · Bash · Linux · Git/GitHub · Redes**
+
+---
+
+<div align="center"><sub>Aprendendo, praticando e construindo projetos.</sub></div>
